@@ -17,7 +17,7 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH
 rafsanjani@mrz:~$ rgi heatmap --input PATH --category gene_family --display text
 ```
 
-#### Step 2.3: Frequency
+#### Step 3: Profile Frequency
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH --frequency
 ```
