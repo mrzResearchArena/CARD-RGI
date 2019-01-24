@@ -1,10 +1,5 @@
 # Resistance Gene Identifier (RGI)
 
-## Color Code
-- Yellow represents a perfect hit, 
-- Teal represents a strict hit, 
-- Purple represents no hit.
-
 ## Heatmap
 
 #### Step 1: Default
@@ -37,3 +32,9 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster both
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistance_mechanism --display text
 ```
+
+## Color Code
+-- Yellow represents a perfect hit, 
+-- Teal represents a strict hit, 
+-- Purple represents no hit.
+
