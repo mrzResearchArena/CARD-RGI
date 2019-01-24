@@ -34,5 +34,5 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster both
 
 #### Step 4.1: Cluster on Resistance Mechanism
 ```console
-rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistance_mechanism --display fill
+rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistance_mechanism --display text
 ```
