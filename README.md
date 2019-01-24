@@ -26,7 +26,7 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --frequency
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH --category drug_class --frequency --display text
 ```
-#### 4: Cluster
+#### Step 4: Cluster
 ##### Step 4.1: Default Cluster
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster both
