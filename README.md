@@ -34,7 +34,7 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistan
 ```
 
 ## Color Code
--- Yellow represents a perfect hit, 
--- Teal represents a strict hit, 
--- Purple represents no hit.
+- Yellow represents a perfect hit, 
+- Teal represents a strict hit, 
+- Purple represents no hit.
 
