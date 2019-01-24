@@ -5,7 +5,7 @@
 - Teal represents a strict hit, 
 - Purple represents no hit.
 
-### Heatmap
+## Heatmap
 
 #### Step 1: Default
 ```console
