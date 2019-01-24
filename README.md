@@ -1,6 +1,6 @@
 # Resistance Gene Identifier (RGI)
 
-#### Color Code
+## Color Code
 - Yellow represents a perfect hit, 
 - Teal represents a strict hit, 
 - Purple represents no hit.
