@@ -1,4 +1,4 @@
-### RGI
+# Resistance Gene Identifier (RGI)
 
 #### Color Code
 - Yellow represents a perfect hit, 
