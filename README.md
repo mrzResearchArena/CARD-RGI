@@ -5,22 +5,14 @@
 - Teal represents a strict hit, 
 - Purple represents no hit.
 
+### Heatmap
+
 #### Step 1: Default
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH
 ```
-#### Step 2: Gene Family Deault
 
-```console
-rafsanjani@mrz:~$ rgi heatmap --input PATH --category gene_family
-
-```
-##### Step 2.1: Gene Family Display (Fill) 
-```console
-rafsanjani@mrz:~$ rgi heatmap --input PATH --category gene_family --display fill
-```
-
-#### Step 2.2: Gene Family Display (Text)
+#### Step 2: Gene Family
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH --category gene_family --display text
 ```
