@@ -1,6 +1,6 @@
 # Resistance Gene Identifier (RGI)
 
-## Heatmap
+## HeatMap
 
 #### Step 1: Default
 ```console
