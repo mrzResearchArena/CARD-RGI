@@ -35,12 +35,12 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --frequency
 rafsanjani@mrz:~$ rgi heatmap --input PATH --category drug_class --frequency --display text
 ```
 
-#### Step 1: Cluster
+#### Step 4: Cluster
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH --category drug_class --frequency --cluster both
 ```
 
-#### Step 1: Cluster on Resistance Mechanism
+#### Step 4.1: Cluster on Resistance Mechanism
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistance_mechanism --display fill
 ```
