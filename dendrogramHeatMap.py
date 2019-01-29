@@ -64,7 +64,7 @@ D = pd.DataFrame(data=V,            # values
                  columns=nameAntibiotics).to_csv('/home/mrz/on.csv', index=True)  # 1st row as the column names
 
 #%%
-### Goto the .csv and add Genes at the first-line
+### Before running this cell; please goto the .csv and add Genes at the begging of the first-line.
 D = pd.read_csv('/home/mrz/on.csv')
 D = D.set_index('Genes')
 #%%
