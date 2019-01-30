@@ -1,6 +1,10 @@
 # Resistance Gene Identifier (RGI)
 
+&nbsp;
+
 ## Code Description
+
+&nbsp;
 
 ### 1. Generate Datasets (JSON)
 ##### Step 1.1: Basic Process [ [Generate Datasets](https://github.com/mrzResearchArena/CARD-RGI/blob/master/generateDatasets.py) ]
@@ -27,6 +31,8 @@
 &nbsp;
 
 ## HeatMap ( Command-line )
+
+&nbsp;
 
 #### Step 1: Default
 ```console
@@ -61,33 +67,48 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistan
 
 ## Heatmap ( Image )
 
+&nbsp;
+
 ##### Gene Family RGI Heatap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Gene_Family_RGI_heatmap.png)
+
+&nbsp;
 
 ##### Profile Frequency RGI Heatmap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Profile_Frequency_RGI_heatmap.png)
 
+&nbsp;
+
 ##### Drug Class Frequency RGI Heatmap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Drug_Class_Frequency_RGI_heatmap.png)
+
+&nbsp;
 
 ##### Cluster RGI Heatmap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Cluster_RGI_heatmap.png)
 
+&nbsp;
+
 ##### Cluster Resistance Mechanism RGI Heatmap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Cluster_Resistance_Mechanism_RGI_heatmap.png)
 
+&nbsp;
 
 ## Dendrogram with Heatmap ( Image )
+
+&nbsp;
 
 ##### Dendrogram with Heatmap ( using standard daviation )
 ![STD](https://github.com/mrzResearchArena/CARD-RGI/blob/master/STD.png)
 
+&nbsp;
+
 ##### Dendrogram with Heatmap ( using z-score )
 ![Z](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Z.png)
 
+&nbsp;
 
 ## Color Code
 - Yellow represents a perfect hit, 
 - Teal represents a strict hit, 
 - Purple represents no hit.
-
