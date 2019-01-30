@@ -2,23 +2,25 @@
 
 ## Code Description
 
-[]()
-### 1. Generate Datasets
+### 1. Generate Datasets (JSON)
 ##### Step 1.1: Basic Process [ [Generate Datasets](https://github.com/mrzResearchArena/CARD-RGI/blob/master/generateDatasets.py) ]
 ##### Step 1.2: Parallel Processing [ [Generate Datasets](https://github.com/mrzResearchArena/CARD-RGI/blob/master/generateDatasetsParallelProcessing.py) ]
 
-#### Step X:
-[Draw Dendrogram HeatMap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/%20dendrogramHeatMap.py)
+`Note: The programme will take FASTA sequences as inputs; it will produce JSON file for each sequence.`
+
+### 2. HeatMap:
+##### Step 2.1 Heatmap [ [HeatMap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/heatMap.py) ]
+`Note: The programme will take previously generated JSON file as inputs; it will produce heatmap.`
 
 
-#### Step X:
-[Generate CSV](https://github.com/mrzResearchArena/CARD-RGI/blob/master/CSV.py)
+### 3. Generate Datasets (CSV)
+##### Step 3.1 [ [Generate CSV](https://github.com/mrzResearchArena/CARD-RGI/blob/master/CSV.py) ]
+`Note: The programme will take previously generated JSON file as inputs; it will produce the name of antibiotic resistance ontology (ARO) and the percentage of identity for each ARO.`
 
-#### Step X:
-[Generate CSV](https://github.com/mrzResearchArena/CARD-RGI/blob/master/CSV.py)
+### 4. Dendrogram with HeatMap:
+##### Step 4.1 [ [Draw Dendrogram HeatMap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/dendrogramHeatMap.py) ]
+`Note: The programme will take previously generated CSV file as input; it will produce dendrogram with heatmap.`
 
-#### Step X:
-[Draw Dendrogram HeatMap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/dendrogramHeatMap.py)
 
 ## HeatMap ( Command-line )
 
