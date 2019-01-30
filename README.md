@@ -20,7 +20,7 @@
 ##### Step 3.1 [ [Generate CSV](https://github.com/mrzResearchArena/CARD-RGI/blob/master/WriteCSV.py) ]
 `Note: The programme will take previously generated JSON file as inputs; it will produce the name of antibiotic resistance ontology (ARO) and the percentage of identity for each ARO.`
 
-`[Visualized CSV file](https://github.com/mrzResearchArena/CARD-RGI/blob/master/output.csv).`
+Please [click here](https://github.com/mrzResearchArena/CARD-RGI/blob/master/output.csv) to visualize the CSV file.
 
 &nbsp;
 
