@@ -5,6 +5,7 @@ import seaborn as sns
 
 #%%
 ### Generate dataset using CSV.py
+#D = pd.read_csv('/home/mrz/output.csv')
 D = pd.read_csv('/home/mrz/binaryOutput.csv')
 D = D.set_index('Genes')
 
