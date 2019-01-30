@@ -51,11 +51,14 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistan
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Cluster_Resistance_Mechanism_RGI_heatmap.png)
 
 
+## Dendrogram with Heatmap ( Image )
 
+##### Dendrogram with Heatmap ( using standard daviation )
+![STD](https://github.com/mrzResearchArena/CARD-RGI/blob/master/STD.png)
 
+##### Dendrogram with Heatmap ( using z-score )
+![Z](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Z.png)
 
-
-##### Cluster RGI Heatmap
 
 ## Color Code
 - Yellow represents a perfect hit, 
