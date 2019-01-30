@@ -17,12 +17,13 @@
 &nbsp;
 
 ### 3. Generate Datasets (CSV)
-##### Step 3.1 [ [Generate CSV Percentage](https://github.com/mrzResearchArena/CARD-RGI/blob/master/WriteCSV.py) ]
-##### Step 3.2 [ [Generate CSV Binary](https://github.com/mrzResearchArena/CARD-RGI/blob/master/WriteCSV_binary.py) ]
+##### Step 3.1 [ [Generate Percentage CSV](https://github.com/mrzResearchArena/CARD-RGI/blob/master/WriteCSV.py) ]
+##### Step 3.2 [ [Generate Binary CSV](https://github.com/mrzResearchArena/CARD-RGI/blob/master/WriteCSV_binary.py) ]
 
 `Note: The programme will take previously generated JSON file as inputs; it will produce the name of antibiotic resistance ontology (ARO) and the percentage of identity for each ARO.`
 ##### Step 3.3 Visualize Datasets
 Please [click here](https://github.com/mrzResearchArena/CARD-RGI/blob/master/output.csv) to visualize the CSV file (percentage).
+
 Please [click here](https://github.com/mrzResearchArena/CARD-RGI/blob/master/binaryOutput.csv) to visualize the CSV file (binary).
 
 &nbsp;
