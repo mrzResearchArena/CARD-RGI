@@ -35,7 +35,7 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistan
 
 ## HeatMap ( Image )
 
-![image_1](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Cluster_RGI_heatmap.eps)
+![image_1](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Cluster_RGI_heatmap.png)
 
 
 ## Color Code
