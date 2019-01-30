@@ -1,6 +1,26 @@
 # Resistance Gene Identifier (RGI)
 
-## HeatMap ( Commands )
+## Code Description
+
+[]()
+### 1. Generate Datasets
+##### Step 1.1: Basic Process [ [Generate Datasets](https://github.com/mrzResearchArena/CARD-RGI/blob/master/generateDatasets.py) ]
+##### Step 1.2: Parallel Processing [ [Generate Datasets](https://github.com/mrzResearchArena/CARD-RGI/blob/master/generateDatasetsParallelProcessing.py) ]
+
+#### Step X:
+[Draw Dendrogram HeatMap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/%20dendrogramHeatMap.py)
+
+
+#### Step X:
+[Generate CSV](https://github.com/mrzResearchArena/CARD-RGI/blob/master/CSV.py)
+
+#### Step X:
+[Generate CSV](https://github.com/mrzResearchArena/CARD-RGI/blob/master/CSV.py)
+
+#### Step X:
+[Draw Dendrogram HeatMap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/dendrogramHeatMap.py)
+
+## HeatMap ( Command-line )
 
 #### Step 1: Default
 ```console
