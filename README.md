@@ -92,11 +92,8 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistan
 
 ## Dendrogram with Heatmap ( Image )
 
-##### Dendrogram with Heatmap ( using standard daviation )
+##### Dendrogram with Heatmap
 ![STD](https://github.com/mrzResearchArena/CARD-RGI/blob/master/STD.png)
-
-##### Dendrogram with Heatmap ( using z-score )
-![Z](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Z.png)
 
 &nbsp;
 
