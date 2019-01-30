@@ -8,10 +8,13 @@
 
 `Note: The programme will take FASTA sequences as inputs; it will produce JSON file for each sequence.`
 
+&nbsp;
+
 ### 2. HeatMap:
 ##### Step 2.1 Heatmap [ [HeatMap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/heatMap.py) ]
 `Note: The programme will take previously generated JSON file as inputs; it will produce heatmap.`
 
+&nbsp;
 
 ### 3. Generate Datasets (CSV)
 ##### Step 3.1 [ [Generate CSV](https://github.com/mrzResearchArena/CARD-RGI/blob/master/CSV.py) ]
@@ -21,6 +24,7 @@
 ##### Step 4.1 [ [Draw Dendrogram HeatMap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/dendrogramHeatMap.py) ]
 `Note: The programme will take previously generated CSV file as input; it will produce dendrogram with heatmap.`
 
+&nbsp;
 
 ## HeatMap ( Command-line )
 
