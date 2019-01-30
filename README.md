@@ -1,6 +1,6 @@
 # Resistance Gene Identifier (RGI)
 
-## HeatMap
+## HeatMap ( Commands )
 
 #### Step 1: Default
 ```console
@@ -32,6 +32,11 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster both
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistance_mechanism --display text
 ```
+
+## HeatMap ( Image )
+
+![image_1](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Cluster_RGI_heatmap.eps)
+
 
 ## Color Code
 - Yellow represents a perfect hit, 
