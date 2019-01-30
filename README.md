@@ -30,8 +30,6 @@
 
 ## HeatMap ( Command-line )
 
-&nbsp;
-
 #### Step 1: Default
 ```console
 rafsanjani@mrz:~$ rgi heatmap --input PATH
@@ -63,43 +61,33 @@ rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster both
 rafsanjani@mrz:~$ rgi heatmap --input PATH --cluster samples --category resistance_mechanism --display text
 ```
 
-## Heatmap ( Image )
-
 &nbsp;
+
+## Heatmap ( Image )
 
 ##### Gene Family RGI Heatap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Gene_Family_RGI_heatmap.png)
 
-&nbsp;
-
 ##### Profile Frequency RGI Heatmap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Profile_Frequency_RGI_heatmap.png)
 
-&nbsp;
 
 ##### Drug Class Frequency RGI Heatmap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Drug_Class_Frequency_RGI_heatmap.png)
 
-&nbsp;
-
 ##### Cluster RGI Heatmap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Cluster_RGI_heatmap.png)
 
-&nbsp;
-
 ##### Cluster Resistance Mechanism RGI Heatmap
 ![Cluster RGI Heatmap](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Cluster_Resistance_Mechanism_RGI_heatmap.png)
+
 
 &nbsp;
 
 ## Dendrogram with Heatmap ( Image )
 
-&nbsp;
-
 ##### Dendrogram with Heatmap ( using standard daviation )
 ![STD](https://github.com/mrzResearchArena/CARD-RGI/blob/master/STD.png)
-
-&nbsp;
 
 ##### Dendrogram with Heatmap ( using z-score )
 ![Z](https://github.com/mrzResearchArena/CARD-RGI/blob/master/Z.png)
