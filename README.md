@@ -1,4 +1,4 @@
-# Resistance Gene Identifier (RGI)
+# Resistance Gene Identifier (RGI) for E. coli (Bacteria)
 
 ## Code Description
 
